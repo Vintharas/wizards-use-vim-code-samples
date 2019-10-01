@@ -1,3 +1,7 @@
+/**
+ * Wizards Use Vim Code Samples.
+ * 003. Moving Around With Vim Motions.
+ */
 export const fireballSpell = {
   manaCost: 10,
   name: "Fireball",
