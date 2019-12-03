@@ -1,0 +1,4 @@
+cucumber carrot lettuce
+cabbage carrot lettuce cucumber
+cucumber cucumber carrot
+kale cucumber kale
